@@ -6,7 +6,7 @@ the keywords generate by post title automatically
 
 ## use
 
-just add code of function-extra.php to end of function.php
+just add code of function-extra.php to end of functions.php
 
 ## result
 
