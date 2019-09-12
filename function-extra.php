@@ -1,4 +1,6 @@
 
+//Mohammad Javad Arshiyan
+//arshiyan.ir
 //add keyword meta to header of single page
 function add_meta_tags() {
   echo '<meta name="keywords" content="'.getkeyword(get_the_title()).'">';
